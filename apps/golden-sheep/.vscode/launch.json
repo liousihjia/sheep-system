@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-JiaLifeApplication<golden-sheep>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.jiajia.JiaLifeApplication",
+            "projectName": "golden-sheep",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
